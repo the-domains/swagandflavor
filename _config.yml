@@ -1,0 +1,28 @@
+name: swagandflavor
+favicon: null
+layout_spectrum: 0.8070839119609445
+typography_spectrum: 0.7203662765678018
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.1717150576878339
+  lightness: 0.07815896696411073
+  saturation: 0.19123025378212333
+  rhythmicContrast: 0.7748019907157868
+purpose: []
